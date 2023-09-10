@@ -1,9 +1,8 @@
-# 👋 Hello! Welcome to my Github profile.
-## I'm Cleiton Puttlitz
+# 👋 Hello! Welcome to my Github profile
 
+ I'm Software Engineer and MSc Student
 
 <!--
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +14,9 @@
 - ⚡ Fun fact: ...
 -->
 
+--- 
 
+### Languages and Tools
 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" />
@@ -29,5 +30,8 @@
           <img src="https://p4.org/wp-content/uploads/2021/05/Group-81.png" width="40" height="40" />          
 </div>
 
+---
 
-![Snake animation](https://github.com/cleitonputtlitz/cleitonputtlitz/blob/output/github-contribution-grid-snake.svg)
+<div>
+          ![Snake animation](https://github.com/cleitonputtlitz/cleitonputtlitz/blob/output/github-contribution-grid-snake.svg)
+</div>
